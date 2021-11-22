@@ -18,3 +18,7 @@ html {
     background-color: black;
     text-align: center;
 }
+#copyright {
+    text-align: right;
+    color: gray;
+}
