@@ -23,7 +23,7 @@ html {
     text-align: right;
     color: gray;
 }
-.download {
+a {
     color: aquamarine;
     font-size: 16px;
 }
